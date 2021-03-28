@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1616889604 source:d:\codeblocks\projects\lista dinâmica encadeada\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDinEncad.h"
+
+1616890038 d:\codeblocks\projects\lista dinâmica encadeada\listadinencad.h
+
+1616889861 source:d:\codeblocks\projects\lista dinâmica encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"listaDinEncad.h"
+
+1616942436 source:c:\users\ricar\onedrive\documentos\faculdade\estruturas de dados\02-listadinamicamenteencandeada\listadinencad.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDinEncad.h"
+
+1616942443 c:\users\ricar\onedrive\documentos\faculdade\estruturas de dados\02-listadinamicamenteencandeada\listadinencad.h
+
+1616944424 source:c:\users\ricar\onedrive\documentos\faculdade\estruturas de dados\02-listadinamicamenteencandeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"listaDinEncad.h"
+
